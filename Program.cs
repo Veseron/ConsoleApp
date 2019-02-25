@@ -12,7 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Team Leader: Nikita Shatokhin");
             
-            Console.ReadKey();
+            Console.WriteLine("Developer: Anastasia Skrynnikova");
         }
     }
 }
