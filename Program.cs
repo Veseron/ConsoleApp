@@ -11,8 +11,10 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Team Leader: Nikita Shatokhin");
-            
+
             Console.WriteLine("Developer: Anastasia Skrynnikova");
+            Console.WriteLine("Developer: Vladimir Batiyk");
+
         }
     }
 }
