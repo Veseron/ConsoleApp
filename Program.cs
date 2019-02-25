@@ -7,11 +7,11 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Team Leader: Nikita Shatokhin");
+            Console.WriteLine("Team Leader Web-Developer: Klimenko Alena");
 
             Console.WriteLine("Developer: Mikhail Shumakov");
             Console.WriteLine("Developer: Anastasia Skrynnikova");
-            Console.WriteLine("Developer: Vladimir Batiyk");
-            Console.WriteLine("Developer: Klimenko Alena");
+            Console.WriteLine("Developer: Vladimir Batiyk");          
             Console.WriteLine("Developer: Nadya Mojelskaya");
             Console.WriteLine("Developer: Viktoriya Tyo");
             Console.WriteLine("Developer: Zhidkova Olesya");
