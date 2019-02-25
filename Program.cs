@@ -15,6 +15,7 @@ namespace ConsoleApp
             Console.WriteLine("Developer: Nadya Mojelskaya");
             Console.WriteLine("Developer: Viktoriya Tyo");
             Console.WriteLine("Developer: Zhidkova Olesya");
+            
             Console.WriteLine("Doc: Nikita Yurkin");
             Console.WriteLine("Doc: Vasiliy Tsagadinov");
 
